@@ -120,4 +120,4 @@ pytest tests/ -v
 - Flag potential security events in auth logs
 
 ## Author
-**Bhargav Alluri** — [LinkedIn](https://linkedin.com/in/bhargavalluri) · [GitHub](https://github.com/bhargavalluri)
+**Bhargav Alluri** — [LinkedIn](https://linkedin.com/in/bhargav-alluri-engineer) · [GitHub](https://github.com/bhargavalluri)
